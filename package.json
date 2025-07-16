@@ -1,0 +1,14 @@
+{
+  "name": "netphantom-bot",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot with bug commands and dungeon game system.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.0",
+    "@whiskeysockets/baileys": "^6.7.0",
+    "pino": "^8.0.0"
+  }
+}
